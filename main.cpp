@@ -4,11 +4,3 @@
 
 using namespace std;
 
-struct Persona {
-    char nombre;
-    char cedula;
-    int idRegistro;
-    int edad;
-    float altura;
-    char genero;
-};
